@@ -1,6 +1,6 @@
 # Instalasi React Native
 
-`Perhatian !!!` Tutorial instalasi yang saya buat menggunakan sistem operasi `Linux` , jika kamu menggunakan sistem operasi lain `windows or mac` kamu bisa cari referensinya di bawah ini :
+`Perhatian !!!` Tutorial instalasi yang saya buat menggunakan sistem operasi `Linux` , jika kamu menggunakan sistem operasi lain seperti `windows or mac` kamu bisa cari referensinya di bawah ini :
  - [Windows](https://www.dumetschool.com/blog/Cara-Menginstal-React-Native-Android-Pada-Windows)
  - [Mac](https://medium.com/@bangkit/instal-react-native-di-mac-os-63a5edcb9d49)
 
